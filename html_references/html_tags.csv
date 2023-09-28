@@ -1,0 +1,12 @@
+Category,Tags
+Document Structure,<html> <head> <body>
+Headers / Titles,<h1> <h2> <h3> <h4> <h5> <h6>
+Text,<p> <b> <i> <strong> <em>
+Links,<a>
+Images and Media,<img> <video> <audio>
+Lists,<ul> <ol> <li>
+Tables,<table> <tr> <th> <td>
+Forms,<form> <input> <textarea> <button> <select> <option> <label>
+Grouping Content,<div> <span>
+Scripting,<script>
+Meta Information,<meta> <style> <title>
